@@ -174,7 +174,7 @@ if (isset($_GET["code"]) && $_GET["state"] != 'meena') {
   <title>All Socails SignUp / LogIn</title>
   <link rel="stylesheet" href="index.css">
 </head>
-
+ 
 <body>
   <div class="container smooth-transition">
     <div class="inner-container">
